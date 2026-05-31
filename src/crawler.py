@@ -3,7 +3,7 @@
 # took me a while to get the recursion right ngl, kept crawling forever lol
 
 import requests
-from bs4 import BeautifulSoup
+src/crawler.py from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from src.utils import is_same_domain, clean_url, is_valid_url
 
